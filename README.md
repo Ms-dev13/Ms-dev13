@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ms-dev13
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Application Development
+- 🌱 I’m currently learning Backend Devleopment Using ASP.NET Core
 - ⚡ Fun fact: ... When I’m not diving into code or solving tech puzzles,
 -  I’m probably daydreaming about the next big idea, turning life’s quirks into creative analogies.🌟
 
